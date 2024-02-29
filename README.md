@@ -3,7 +3,7 @@
 Con esta app aprendí sobre Struct y el patrón de diseño Modelo Vista Controlador (MVC). Desarrollé una aplicación de preguntas y respuestas utilizando este patrón de diseño y además agregué otras funcionalidades como un contador de preguntas y la última puntuación obtenida por el usuario.
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-29 at 11 45 04](https://github.com/agustincarro99/quizzler-iOS/assets/91037691/b68c60e4-b76c-4aac-a73d-b5b98962ab7a =250x250)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-29 at 11 45 04](https://github.com/agustincarro99/quizzler-iOS/assets/91037691/b68c60e4-b76c-4aac-a73d-b5b98962ab7a=250x250)
 
 
 Resumen:
